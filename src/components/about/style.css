@@ -1,0 +1,25 @@
+.main-about {
+    margin: 5.55rem 10rem;
+}
+
+.text-center-about {
+    text-align: center;
+}
+
+.black-class {
+    background-color: black;
+    padding: 2rem;
+}
+
+.gap-about {
+    padding-bottom: 1.5rem;
+}
+
+.gap-about h2 {
+    font-size: 15px;
+    padding-bottom: 1.5rem;
+}
+
+.gap-about p {
+    font-size: 18px;
+}

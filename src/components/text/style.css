@@ -1,0 +1,75 @@
+.text-text-center {
+    text-align: center;
+    padding-top: 8rem;
+    padding-bottom: 3rem;
+    font-size: 40px;
+}
+
+.text-form-control {
+    display: flex;
+    width: 66%;
+    margin: 1rem 16rem;
+    padding: 10px;
+    background-color: RGB(58, 59, 60);
+    color: #ffffff;
+
+}
+
+.text-form-label {
+    padding: 1rem 16rem;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.text-btn-container{
+    display: flex;
+    gap: 0.8rem;
+    margin-left: 16rem;
+
+}
+
+.btn-btn-text1, .btn-btn-text2, .btn-btn-text3, .btn-btn-text4, .btn-btn-text5{
+    padding: 0.5rem;
+    font-size: 1rem;
+    color: #ffff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-btn-text1:hover, .btn-btn-text2:hover, .btn-btn-text3:hover, .btn-btn-text4:hover, .btn-btn-text5:hover{
+    opacity: 0.5;
+}
+
+.btn-btn-text1{
+    background-color: #2867c5ba;
+}
+.btn-btn-text2{
+    background-color: #28c535ba;
+}
+.btn-btn-text3{
+    background-color: #AF434D;
+}
+.btn-btn-text4{
+    background-color: #126b43;
+}
+.btn-btn-text5{
+    background-color: #c228c5ce;
+}
+
+.containermytext4{
+    margin-left: 16rem;
+    margin-top: 1.6rem;
+    letter-spacing: 1.3px;
+}
+
+.text-center-text4{
+    margin: 1rem 24rem;
+    font-size: 2.2rem;
+}
+
+.form-control-text{
+    width: 80%;
+    padding: 10px;
+    background-color: RGB(58, 59, 60);
+    color: #ffffff;
+}

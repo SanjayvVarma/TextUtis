@@ -1,0 +1,12 @@
+.AlertBox{
+    color: red;
+    text-align: center;
+    padding-top: 1rem;
+    width: 18%;
+    margin-left: 40%;
+
+}
+
+.strong-lert{
+    background-color: rgba(204, 234, 96, 0.854);
+}

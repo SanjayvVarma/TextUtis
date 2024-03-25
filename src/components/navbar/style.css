@@ -1,0 +1,31 @@
+.navbar {
+  background-color: #212529;
+}
+
+.container-fluid {
+  display: flex;
+  gap: 2rem;
+  padding: 1rem;
+}
+
+.navbar-list {
+  display: flex;
+  gap: 2rem;
+  padding-top: 7px;
+  list-style: none;
+}
+
+.navbar-brand{
+  color: #4BACD9;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.nav-item{
+  color: #ffff;
+}
+
+.nav-link{
+  color: RGBA(255, 255, 255, 0.75);
+  text-decoration: none;
+}
